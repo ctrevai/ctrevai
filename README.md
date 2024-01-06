@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @ctrevai
-- 👀 I’m interested in financial technical analysis, machine learning, python
-- 🌱 I’m currently learning github
-- 💞️ I’m looking to collaborate on financial analysis using machine learning
-- 📫 How to reach me ctrevai@gmail.com
+- 👀 I’m interested in AI and machine learning, python and AWS
+- 🌱 I’m currently learning IaC, AI application.
+- 💞️ I’m looking to collaborate using machine learning.
+- 📫 How to reach me email:ctrevai@gmail.com
 
 <!---
 ctrevai/ctrevai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
